@@ -5,6 +5,9 @@ Battalion Wars 2 support planned in the future.
 # Requirements:
 Blender 4.5 or newer recommended. 
 
+# Download
+Check https://github.com/RenolY2/bwterrain-blender/releases for the latest releases!
+
 # How to Install
 In Blender, open Edit -> Preferences, and choose the Add-ons tab on the left if it isn't selected already. Press the little arrow in the upper right and choose "Install from Disk". Select the plugin's zip file to install it.
 
@@ -30,4 +33,5 @@ Watch https://www.youtube.com/watch?v=0JXCK-H6Fxc for a walkthrough of most of t
 
 
 <img width="1908" height="1040" alt="image" src="https://github.com/user-attachments/assets/203d8927-9bc7-431c-b790-778e0414b9d8" />
+
 
